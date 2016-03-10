@@ -1,0 +1,53 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmAdapter.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmFlyweightPattern.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmObserver.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmSimpleFactory.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmStrategy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmState.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.fmCommand.resources
+G:\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+G:\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+O:\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+O:\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+F:\临时\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+F:\临时\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmAdapter.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmCommand.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmFlyweightPattern.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmObserver.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.Properties.Resources.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmSimpleFactory.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmState.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmStrategy.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.GenerateResource.Cache
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmTemplate.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.fmFacade.resources
+F:\源码\设计模式\DesignMode\DesignMode\DesignMode\obj\Debug\DesignMode.csprojResolveAssemblyReference.cache
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+E:\工作安排\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+E:\工作安排\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.csprojResolveAssemblyReference.cache
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmAdapter.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmCommand.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmFacade.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmFlyweightPattern.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmObserver.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.Properties.Resources.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmSimpleFactory.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmState.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmStrategy.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmTemplate.resources
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.GenerateResource.Cache
+E:\工作安排\DesignMode\DesignMode\obj\Debug\DesignMode.fmShow.resources
